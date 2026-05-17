@@ -1,0 +1,1 @@
+[POSTED] "K-Electric is accelerating grid modernization across Karachi. Recent upgrades to the power infrastructure aim to improve reliability and support the integration of renewable energy sources. This initiative is a key step towards a sustainable energy future. #KElectric #Karachi #Sustainability"

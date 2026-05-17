@@ -1,0 +1,68 @@
+# Environments
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+**/.env
+
+# WhatsApp Auth
+auth_info_baileys/
+**/auth_info_baileys/
+
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env/
+
+# Build and Logs
+logs/
+*.log
+.next/
+out/
+build/
+dist/
+dev_output.log
+
+# IDEs and Tools
+.vscode/
+.idea/
+.obsidian/workspace.json
+.gemini/
+.playwright-mcp/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Project Specific
+KE_AI_Vault/.env
+KE_AI_Vault/Logs/
+KE_AI_Vault/facebook/
+api_employee_v2/whatsapp_gateway/auth_info_baileys/
+api_employee_v2/whatsapp_gateway/node_modules/
+frontend/.next/
+frontend/node_modules/
+
+# Browser Sessions and Cache
+.sessions/
+**/Cache/
+**/Cache_Data/
+**/CacheStorage/
+**/Code Cache/
+**/GPUCache/
+**/.sessions/
+**/DawnGraphiteCache/
+**/DawnWebGPUCache/
+**/GrShaderCache/
+**/GraphiteDawnCache/
+**/ShaderCache/
+**/Service Worker/
