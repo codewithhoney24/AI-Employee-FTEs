@@ -1,0 +1,44 @@
+{
+  "customers": [
+    {
+      "id": "ABC001",
+      "name": "ABC Corporation",
+      "email": "billing@abc.com",
+      "whatsapp": "+92300123456",
+      "billing_contact": "Ahmed Khan",
+      "monthly_usage": "5000 units",
+      "rate": "25 PKR/unit",
+      "monthly_bill": "125000 PKR",
+      "payment_status": "paid",
+      "last_payment": "2025-01-05",
+      "auto_invoice": true
+    },
+    {
+      "id": "XYZ002",
+      "name": "XYZ Company",
+      "email": "finance@xyz.com",
+      "whatsapp": "+92300654321",
+      "billing_contact": "Fatima Ali",
+      "monthly_usage": "3000 units",
+      "rate": "20 PKR/unit (commercial)",
+      "monthly_bill": "60000 PKR",
+      "payment_status": "overdue",
+      "last_payment": "2024-12-30",
+      "days_overdue": 8,
+      "auto_invoice": true
+    },
+    {
+      "id": "NEW003",
+      "name": "New Customer #001",
+      "email": "contact@newcustomer.com",
+      "whatsapp": "+92300999999",
+      "billing_contact": "Imran Khan",
+      "monthly_usage": "2000 units",
+      "rate": "25 PKR/unit",
+      "monthly_bill": "50000 PKR",
+      "payment_status": "paid",
+      "last_payment": "2026-05-02",
+      "auto_invoice": true
+    }
+  ]
+}
