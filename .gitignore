@@ -51,3 +51,18 @@ api_employee_v2/whatsapp_gateway/auth_info_baileys/
 api_employee_v2/whatsapp_gateway/node_modules/
 frontend/.next/
 frontend/node_modules/
+
+# Browser Sessions and Cache
+.sessions/
+**/Cache/
+**/Cache_Data/
+**/CacheStorage/
+**/Code Cache/
+**/GPUCache/
+**/.sessions/
+**/DawnGraphiteCache/
+**/DawnWebGPUCache/
+**/GrShaderCache/
+**/GraphiteDawnCache/
+**/ShaderCache/
+**/Service Worker/
